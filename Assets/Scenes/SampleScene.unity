@@ -246,6 +246,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   type: 1
+  icon: {fileID: 0}
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
@@ -683,6 +684,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 25dffce39b99e5a4ba38de5f1a34b40a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  inventory:
+    slots: []
 --- !u!1 &1145018115
 GameObject:
   m_ObjectHideFlags: 0
